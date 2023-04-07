@@ -16,4 +16,4 @@ force-http-engine-hosts = %APPEND% 10010v4.com
 hostname = %APPEND% 10010v4.com
 
 [Panel]
-10010v4-panel = script-name=10010v4-panel,update-interval=300
+10010v4-panel = script-name=10010v4-panel,update-interval=600
